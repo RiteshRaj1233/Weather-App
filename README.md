@@ -9,7 +9,7 @@ Welcome to the Weather App repository! This project is a web application that pr
 
 ### Usage
 
-To use the Weather App, simply enter the name of the city in the search bar and press enter. The app will display the current weather conditions, including temperature, humidity, wind speed, and more.
+To use the Weather App, simply enter the name of the city in the search bar and click the search button. The app will display the current weather conditions, including temperature, humidity, wind speed, and more.
 
 ### Prerequisites
 
